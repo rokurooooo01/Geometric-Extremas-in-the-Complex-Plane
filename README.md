@@ -32,10 +32,10 @@ Our methodology relies on a dual-proof approach:
 
 ## Repository Contents
 
-* `Circle_Extremas.m` - Generates the circular locus, its sweeping circles, and tangent rays.
-* `Ellipse_Extremas.m` - Solves the quartic polynomial for the ellipse and plots its visual proof.
-* `Master_Plot.m` - A combined visualization of both loci on a single complex plane, highlighting their shared minimum argument ray.
-* `Docs/` - Contains our final group report and algebraic derivations. 
+* `circle.m` - Generates the circular locus, its sweeping circles, and tangent rays.
+* `smh.m` and `again.m` - Solves the quartic polynomial for the ellipse and plots its visual proof.
+* `againcircle.m` - A combined visualization of both loci on a single complex plane, highlighting their shared minimum argument ray.
+* `Docs/` - Contains our final group report and algebraic derivations. (i'll add this later)
 
 ---
 
