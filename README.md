@@ -23,7 +23,7 @@ Our methodology relies on a dual-proof approach:
 ### Part A: The Circular Locus
 * **Equation:** $|z - (4+3i)| = 3$
 * **Methodology:** Converted to Cartesian form $(x-4)^2 + (y-3)^2 = 9$. Implicit differentiation was used to optimize the distance function $D = x^2 + y^2$, proving the modulus extremas. The argument extremas were found by substituting $y=mx$ and evaluating the discriminant.
-* **Results:** * $|z|_{min} = 2$, $|z|_{max} = 8$
+* **Results:** $|z|_{min} = 2$, $|z|_{max} = 8$
   * $min[arg(z)] \rightarrow m = 0$
   * $max[arg(z)] \rightarrow m = 24/7$
 
