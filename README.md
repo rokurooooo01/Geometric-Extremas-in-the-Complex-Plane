@@ -47,7 +47,7 @@ Our methodology relies on a dual-proof approach:
 
 ### The Master Plot
 *(Upload the image of your combined MATLAB plot to your repo and link it here)*
-![Master Plot showing Circle and Ellipse](link_to_your_image.png)
+![Master Plot showing Circle and Ellipse](assets/master_plot.png)
 
 *The Master Plot visually verifies our manual calculations. Sweeping circles perfectly bound both loci, and the tangent rays graze the exact minimum and maximum arguments.*
 
