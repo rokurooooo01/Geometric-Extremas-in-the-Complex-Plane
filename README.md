@@ -1,7 +1,3 @@
-# Geometric-Extremas-in-the-Complex-Plane
-FAC1004 assignment
-
-
 # Geometric Extremas in the Complex Plane
 
 **Module:** FAC1004 - Advanced Mathematics II  
