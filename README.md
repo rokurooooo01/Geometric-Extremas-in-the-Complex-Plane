@@ -39,17 +39,15 @@ Our methodology relies on a dual-proof approach:
 * `Circle_Extremas.m` - Generates the circular locus, its sweeping circles, and tangent rays.
 * `Ellipse_Extremas.m` - Solves the quartic polynomial for the ellipse and plots its visual proof.
 * `Master_Plot.m` - A combined visualization of both loci on a single complex plane, highlighting their shared minimum argument ray.
-* `Docs/` - Contains our final group report and algebraic derivations. *(Optional: add this if you are uploading your PDFs)*
+* `Docs/` - Contains our final group report and algebraic derivations. 
 
 ---
 
 ## Visual Proofs
 
 ### The Master Plot
-*(Upload the image of your combined MATLAB plot to your repo and link it here)*
 ![Master Plot showing Circle and Ellipse](assets/master_plot.png)
 
-*The Master Plot visually verifies our manual calculations. Sweeping circles perfectly bound both loci, and the tangent rays graze the exact minimum and maximum arguments.*
 
 ---
 
